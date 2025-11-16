@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "UIA HUB plss vô dis https://discord.gg/xMPTGsaKz",
-         Animation = "script tổng hợp update 1.1.1 beta"
+         Animation = "script tổng hợp update 1.1.1"
          },
         Key = {
         KeySystem = false,
